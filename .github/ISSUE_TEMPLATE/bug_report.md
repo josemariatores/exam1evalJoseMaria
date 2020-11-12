@@ -1,14 +1,15 @@
 ---
 name: Bug report
 about: Create a report to help us improve
-title: bugreportJoseMaria
+title: ''
 labels: ''
 assignees: ''
 
 ---
 
 **Describe the bug**
-A clear and concise description of what the bug is.
+El error se produce cuando suspendes el examen de vicent
+
 
 **Expected behavior**
-A clear and concise description of what you expected to happen.
+El comportamiento deberia ser cambiado y aprobar este examen
